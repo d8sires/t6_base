@@ -8,4 +8,4 @@ CONTROLS:
 • Dpad Up/Dpad Down - Scroll
 
 CREDITS:
-• Xeirh - GSC Support
+• Xeirh - GSC Support & for the original zombies base.
